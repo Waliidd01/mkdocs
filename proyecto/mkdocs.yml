@@ -1,0 +1,12 @@
+site_name: BMW — Documentación
+
+nav:
+  - Inicio: index.md
+  - About: about.md
+
+theme:
+  name: material
+  language: es
+  palette:
+    primary: blue
+    accent: amber
